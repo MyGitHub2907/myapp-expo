@@ -27,8 +27,7 @@ jobs:
           expo-password: Mayur7671@
       - run: yarn install
       - run: expo publish
-      
-  
+       
   ci:
     name: Daily Continuous Integration
     runs-on: ubuntu-latest
