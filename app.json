@@ -6,7 +6,7 @@
     "slug": "myapp",
     "sdkVersion": "41.0.0",
     "android": {
-      "package": "com.private.myapp",
+      "package": "com.bikashbarik.myapp",
       "versionCode": 1
     }
    }
