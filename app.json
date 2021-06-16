@@ -3,7 +3,7 @@
     "name": "myapp",
     "orientation": "portrait",
     "version": "1.0.0",
-    "slug": "SampleExpo",
+    "slug": "myapp",
     "sdkVersion": "41.0.0",
     "android": {
       "package": "com.private.myapp",
